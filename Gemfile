@@ -9,8 +9,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
-gem 'bootstrap-sass', 'thomas-mcdonald/bootstrap-sass', branch: '3'
-
+gem 'bootstrap-sass' 
 group :development, :test do
 	gem 'sqlite3'
 end
