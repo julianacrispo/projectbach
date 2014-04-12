@@ -11,3 +11,20 @@
  *= require_self
  *= require_tree .
  */
+
+.container {
+	margin-top: 10px;
+}
+
+h1 {
+	padding-left: 18px;
+}
+
+p {
+	padding-left: 18px;
+}
+
+.datepicker {
+	margin-top: 20px;
+	margin-left: 10px;
+}

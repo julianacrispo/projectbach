@@ -1,8 +1,10 @@
 Bachelorette::Application.routes.draw do
- root 'pages#home'
- get "about" =>"pages#about"
- get "signup" => "pages#signup"
+root 'pages#home'
+get "about" =>"pages#about"
+get "signup" => "pages#signup"
+get "step2" => "pages#step2"
 get "faq" => "pages#faq"
+get "login" => "pages#login"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -1,10 +1,8 @@
-$body-bg: #ecf0f1;
-$navbar-default-bg: #ecf0f1;
-$border-radius-base: 0px;
-$navbar-default-color: #34495e;
-$navbar-default-link-color: #34495e;
-$jumbotron-color: white;
-$jumbotron-bg: #95a5a6; 
+
+@import url(http://fonts.googleapis.com/css?family=Lato);
 $navbar-margin-bottom: 0px;
+$font-family-base: lato;
+
 @import 'bootstrap'; 
+
 
